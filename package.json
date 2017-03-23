@@ -1,0 +1,32 @@
+{
+  "name": "partiel_h2_p2020_t2",
+  "version": "1.0.0",
+  "description": "Partiel H2 P2020 2e trimestre",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvaJamen/Partiel_H2_P2020_T2.git"
+  },
+  "keywords": [
+    "partiel_php",
+    "h2_p2020",
+    "partiel_dev_t2"
+  ],
+  "author": "Eva Jamen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvaJamen/Partiel_H2_P2020_T2/issues"
+  },
+  "homepage": "https://github.com/EvaJamen/Partiel_H2_P2020_T2#readme"
+}
