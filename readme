@@ -1,1 +1,5 @@
 Partiel_H2_P2020_T2
+
+Impossible d’afficher mon formulaire (HTTP Error 500)
+Cette erreur survient lorsque j’inclus (include 'includes/new.php’;) dans mon index.html.
+Lorsque je l’enlève, le formulaire s’affiche correctement mais évidemment, aucune connection à ma BDD

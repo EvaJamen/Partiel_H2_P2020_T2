@@ -4,7 +4,7 @@
 
 	//Define the BDD and the user
 	define('DB_HOST','localhost');
-	define('DB_NAME','new_bdd'); 
+	define('DB_NAME','Partiels_H2_P2020_T2'); 
 	define('DB_USER','root');
 	define('DB_PASS','root');
 
