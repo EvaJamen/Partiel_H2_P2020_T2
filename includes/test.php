@@ -1,5 +1,4 @@
 <?php
-	
 	//INPUT NEW TASKS IN MY TABLE OF MY BDD
 
 	//Array to check errors
@@ -13,7 +12,7 @@
 		$date_ajout		= trim($_POST['date_ajout']);
 		$etat			= trim($_POST['etat']);
 		
-	// Check empty data to fill the error array
+		// Check empty data to fill the error array
 		if(empty($tache))
 			$error['tache']		= 'should not be empty';
 		if(empty($executant))
@@ -23,7 +22,7 @@
 		if(empty($etat))
 			$error['etat']	= 'should not be empty';
 		
-	// Any error
+		// Any error
 		if(empty($error)) {
 			// Fill the table with currently set date
 			if(empty($date_ajout)) {
@@ -67,7 +66,7 @@
 		$_POST['executant']	= '';
 		$_POST['descriptif']	= '';
 		$_POST['date_ajout']		= '';
-		$_POST['etat']		= '';		= '';
+		$_POST['etat']		= '';
 	}
 
 	else {
@@ -76,5 +75,5 @@
 		$_POST['executant']	= '';
 		$_POST['descriptif']	= '';
 		$_POST['date_ajout']		= '';
-		$_POST['etat']		= '';		= '';
+		$_POST['etat']		= '';
 	}

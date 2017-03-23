@@ -66,18 +66,4 @@
 			</footer>
 		</div>
 	</body>
-</html>	<title>Home</title>
-		<link rel="stylesheet" href="src/css/style.css" />
-	</head>
-	<body>
-		<div class="container">
-			
-				<div class="footer">
-					<p>Mentions légales</p>
-					<p>By Eva Jamen</p>
-					<p>Hetic</p>
-				</div>
-			</footer>
-		</div>
-	</body>
 </html>
